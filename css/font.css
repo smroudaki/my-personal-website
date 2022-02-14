@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Montserrat-Regular;
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/eot/Montserrat-Regular.eot') format('embedded-opentype'), /* IE6-8 */ url('../fonts/woff2/Montserrat-Regular.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+ */ url('../fonts/woff/Montserrat-Regular.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+ */ url('../fonts/ttf/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Sacramento-Regular;
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/ttf/Sacramento-Regular.ttf') format('truetype');
+}
